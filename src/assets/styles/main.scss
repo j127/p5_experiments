@@ -1,5 +1,8 @@
-$bodyText: teal;
-
-body {
-    color: $bodyText;
+.output-area {
+    border: 1px solid #ddd;
+    padding: 11px 17px;
+    box-shadow: 0 0 9px 3px #eee;
+    border-radius: 5px;
 }
+
+
