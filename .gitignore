@@ -1,9 +1,17 @@
+# 11ty
+_site/
+
+# parcel
+.cache/
+dist/
+
 # Editors
 *~
 tags
 tags.*
 .idea/
 .vscode/
+.vim/
 *.sw[op]
 
 # Python
