@@ -21,7 +21,7 @@
     },
     "homepage": "https://github.com/j127/p5_experiments#readme",
     "devDependencies": {
-        "@11ty/eleventy": "^0.10.0",
+        "@11ty/eleventy": "^1.0.2",
         "parcel-bundler": "^1.12.4",
         "sass": "^1.26.3"
     },
